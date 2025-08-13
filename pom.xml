@@ -65,7 +65,7 @@
         <maven-javadoc.version>3.5.0</maven-javadoc.version>
         <surefire.version>2.22.0</surefire.version>
         <kotlin.version>2.1.21</kotlin.version>
-        <scala.version>3.3.1</scala.version>
+        <scala.version>2.13.9</scala.version>
         <assertj-core.version>3.16.1</assertj-core.version>
         <scribe.version>2.5.3</scribe.version>
         <guava.version>33.2.1-jre</guava.version>
